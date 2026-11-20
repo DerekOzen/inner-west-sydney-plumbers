@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Plumber Inner West Sydney | 24/7 Licensed Local Plumbers",
     "seoTitle": "Plumber Inner West Sydney | 24/7 Licensed Local Plumbers",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-20T04:50:36.123Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-20T04:50:36.123Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-20T04:51:30.861Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
