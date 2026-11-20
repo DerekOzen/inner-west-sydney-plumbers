@@ -15,5 +15,21 @@
     "updatedAt": "2026-11-20T04:51:30.861Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home 2",
+    "seoTitle": "Plumber Inner West Sydney | Homes, Business & Strata",
+    "seoDescription": "Licensed and insured Inner West plumbers with over 20 years on the tools. Same-day help for homes, businesses and strata buildings. Call 0412 395 426.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-20T15:03:33.576Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-20T15:03:33.576Z",
+    "createdBy": "derek"
   }
 ]
