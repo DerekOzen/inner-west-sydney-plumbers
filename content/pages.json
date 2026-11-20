@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/",
-    "type": "page",
-    "title": "Plumber Inner West Sydney | 24/7 Licensed Local Plumbers",
-    "seoTitle": "Plumber Inner West Sydney | 24/7 Licensed Local Plumbers",
-    "seoDescription": "Licensed Inner West plumbers on call 24/7 for blocked drains, hot water, gas, leaks and burst pipes. No call-out fee. Fixed price before we start.",
-    "layout": "mockup",
-    "headerPartId": null,
-    "footerPartId": null,
-    "status": "deleted",
-    "createdAt": "2026-11-20T04:50:36.123Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-11-20T15:04:36.367Z",
-    "updatedBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-2",
     "path": "/",
     "type": "page",
