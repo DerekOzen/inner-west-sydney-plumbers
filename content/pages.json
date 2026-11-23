@@ -338,7 +338,7 @@
   },
   {
     "id": "pg-24",
-    "path": "/service-areas/plumber-ashfield",
+    "path": "/plumber-ashfield",
     "type": "location",
     "title": "Plumber Ashfield | Flats, Federation Homes, 24 Hours",
     "seoTitle": "Plumber Ashfield | Flats, Federation Homes, 24 Hours",
@@ -349,12 +349,12 @@
     "status": "published",
     "createdAt": "2026-11-23T03:57:40.959Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:30:06.079Z",
+    "updatedAt": "2026-11-23T04:08:55.210Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-25",
-    "path": "/plumber-concord",
+    "path": "/service-areas/plumber-concord",
     "type": "location",
     "title": "Plumber Concord | Bungalows, Rebuilds, Majors Bay Road",
     "seoTitle": "Plumber Concord | Bungalows, Rebuilds, Majors Bay Road",
@@ -365,7 +365,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:57:40.959Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:30:09.606Z",
     "updatedBy": "joshua"
   },
   {
