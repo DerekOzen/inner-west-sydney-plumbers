@@ -83,7 +83,7 @@
   {
     "id": "pg-8",
     "path": "/hot-water-not-working",
-    "type": "page",
+    "type": "post",
     "title": "Why Is My Hot Water Not Working? Safe Checks Before You Call",
     "seoTitle": "Why Is My Hot Water Not Working? Safe Checks Before You Call",
     "seoDescription": "No hot water? Safe checks for gas, electric, continuous flow and heat pump systems, why showers go lukewarm, and the signs you need a licensed plumber now.",
@@ -93,7 +93,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T02:43:11.883Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
@@ -147,7 +147,7 @@
   {
     "id": "pg-12",
     "path": "/plumber-cost-inner-west",
-    "type": "page",
+    "type": "post",
     "title": "How Much Does a Plumber Cost in the Inner West? (2026)",
     "seoTitle": "How Much Does a Plumber Cost in the Inner West? (2026)",
     "seoDescription": "Plumber hourly rates, call-out fees and after-hours costs in Sydney for 2026, what changes the price in the Inner West, and how to compare quotes fairly.",
@@ -157,7 +157,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T02:43:11.883Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
@@ -547,7 +547,7 @@
   {
     "id": "pg-37",
     "path": "/guides",
-    "type": "page",
+    "type": "post",
     "title": "Plumbing Guides for Inner West Homes | Costs, Leaks, Gas",
     "seoTitle": "Plumbing Guides for Inner West Homes | Costs, Leaks, Gas",
     "seoDescription": "Plain-English plumbing guides for Inner West homes: what plumbers cost, hot water, leaks, tree roots, strata and what to do if you smell gas.",
@@ -557,13 +557,13 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-38",
     "path": "/how-long-does-a-hot-water-system-last",
-    "type": "page",
+    "type": "post",
     "title": "How Long Does a Hot Water System Last? Lifespan by Type",
     "seoTitle": "How Long Does a Hot Water System Last? Lifespan by Type",
     "seoDescription": "How long hot water systems last by type: gas and electric storage, continuous flow, heat pump and solar, what wears them out, and when to replace.",
@@ -573,13 +573,13 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-39",
     "path": "/how-to-find-a-hidden-water-leak",
-    "type": "page",
+    "type": "post",
     "title": "How to Find a Hidden Water Leak: Meter Test and Checks",
     "seoTitle": "How to Find a Hidden Water Leak: Meter Test and Checks",
     "seoDescription": "How to find a water leak at home: the water meter test, checking toilets and taps, signs of leaks in walls and underground, and when to call a plumber.",
@@ -589,7 +589,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
@@ -611,7 +611,7 @@
   {
     "id": "pg-41",
     "path": "/smell-gas-what-to-do",
-    "type": "page",
+    "type": "post",
     "title": "Smell Gas in the House? What to Do Right Now, Step by Step",
     "seoTitle": "Smell Gas in the House? What to Do Right Now, Step by Step",
     "seoDescription": "Smell gas in the house? What to do right now: no switches or flames, open up, turn off the gas if safe, get out and call Jemena on 131 909 or 000.",
@@ -621,13 +621,13 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-42",
     "path": "/strata-plumbing-who-pays-nsw",
-    "type": "page",
+    "type": "post",
     "title": "Who Pays for Plumbing in Strata NSW? Pipes, Leaks, Stacks",
     "seoTitle": "Who Pays for Plumbing in Strata NSW? Pipes, Leaks, Stacks",
     "seoDescription": "Who pays for plumbing in strata in NSW: common property versus lot property, shared stacks, leaks between units, hot water and what to do when owners disagree.",
@@ -637,7 +637,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
@@ -659,7 +659,7 @@
   {
     "id": "pg-44",
     "path": "/tree-roots-in-drains",
-    "type": "page",
+    "type": "post",
     "title": "Tree Roots in Drains: Why They Return and How to Stop Them",
     "seoTitle": "Tree Roots in Drains: Why They Return and How to Stop Them",
     "seoDescription": "Tree roots in drains and old clay sewer pipes: how roots get in, the warning signs, who is responsible in Sydney, and the repairs that stop them coming back.",
@@ -669,7 +669,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:58:42.138Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:09:35.239Z",
     "updatedBy": "joshua"
   },
   {
