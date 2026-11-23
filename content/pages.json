@@ -307,7 +307,7 @@
   {
     "id": "pg-22",
     "path": "/tap-repairs-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Tap Repairs Inner West | Leaking, Dripping and Mixer Taps",
     "seoTitle": "Tap Repairs Inner West | Leaking, Dripping and Mixer Taps",
     "seoDescription": "Dripping or leaking tap? Inner West plumbers repair and replace kitchen, bathroom, laundry and garden taps, and install new mixer taps. Call 0412 395 426.",
@@ -317,13 +317,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:04:49.612Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-23",
     "path": "/toilet-repairs-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Toilet Repairs Inner West | Blocked, Running and Leaking",
     "seoTitle": "Toilet Repairs Inner West | Blocked, Running and Leaking",
     "seoDescription": "Blocked, running or leaking toilet? Inner West plumbers repair cisterns and pans, clear blockages and install new toilets in homes and units. Call 0412 395 426.",
@@ -333,7 +333,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:04:49.612Z",
     "updatedBy": "joshua"
   },
   {
@@ -740,7 +740,7 @@
   {
     "id": "pg-49",
     "path": "/roof-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Roof Plumber Inner West | Gutters, Downpipes, Roof Leaks",
     "seoTitle": "Roof Plumber Inner West | Gutters, Downpipes, Roof Leaks",
     "seoDescription": "Roof plumber for Inner West homes: gutter repairs and replacement, downpipes, box gutters, flashings and roof leaks. Call 0412 395 426.",
@@ -750,8 +750,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:02:55.523Z",
-    "updatedBy": "joshua",
-    "category": "Other"
+    "updatedAt": "2026-11-23T04:04:49.612Z",
+    "updatedBy": "joshua"
   }
 ]
