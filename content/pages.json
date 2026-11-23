@@ -35,7 +35,7 @@
   {
     "id": "pg-5",
     "path": "/blocked-drains-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Blocked Drains Inner West | Cleared, Camera-Checked, Fixed",
     "seoTitle": "Blocked Drains Inner West | Cleared, Camera-Checked, Fixed",
     "seoDescription": "Blocked drains in the Inner West cleared by licensed local plumbers. Jetting, root cutting and a camera check to find the cause. Call 0412 395 426.",
@@ -45,7 +45,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T02:43:11.883Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
@@ -67,7 +67,7 @@
   {
     "id": "pg-7",
     "path": "/emergency-plumber-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Emergency Plumber Inner West | Open 24 Hours, Call Now",
     "seoTitle": "Emergency Plumber Inner West | Open 24 Hours, Call Now",
     "seoDescription": "Burst pipe, sewage backing up or no hot water? Licensed Inner West emergency plumbers, open 24 hours, plus steps to make it safe now. Call 0412 395 426.",
@@ -77,7 +77,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T02:43:11.883Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
@@ -99,7 +99,7 @@
   {
     "id": "pg-9",
     "path": "/hot-water-repairs-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Hot Water Repairs Inner West | Gas, Electric, Heat Pump",
     "seoTitle": "Hot Water Repairs Inner West | Gas, Electric, Heat Pump",
     "seoDescription": "No hot water, lukewarm showers or a leaking unit? Licensed Inner West plumbers repair gas, electric and heat pump hot water systems. Call 0412 395 426.",
@@ -109,7 +109,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T02:43:11.883Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
@@ -195,7 +195,7 @@
   {
     "id": "pg-15",
     "path": "/cctv-drain-inspection-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "CCTV Drain Inspection Inner West | Camera Footage Shown",
     "seoTitle": "CCTV Drain Inspection Inner West | Camera Footage Shown",
     "seoDescription": "CCTV drain inspections for Inner West homes, terraces and strata. See inside your sewer and stormwater pipes before you dig, reline or buy. Call 0412 395 426.",
@@ -205,13 +205,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-16",
     "path": "/commercial-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Commercial Plumber Inner West | Cafes, Shops and Offices",
     "seoTitle": "Commercial Plumber Inner West | Cafes, Shops and Offices",
     "seoDescription": "Commercial plumber for Inner West cafes, restaurants, shops, offices and workshops. Drains, grease traps and hot water, around trading hours. Call 0412 395 426.",
@@ -221,13 +221,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-17",
     "path": "/hot-water-system-replacement-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Hot Water System Replacement Inner West | Gas, Heat Pump",
     "seoTitle": "Hot Water System Replacement Inner West | Gas, Heat Pump",
     "seoDescription": "Hot water system replacement and installation in the Inner West. Gas, electric, continuous flow and heat pump systems sized for your home. Call 0412 395 426.",
@@ -237,13 +237,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-18",
     "path": "/leak-detection-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Leak Detection Inner West | Burst Pipe and Water Leak Repair",
     "seoTitle": "Leak Detection Inner West | Burst Pipe and Water Leak Repair",
     "seoDescription": "Hidden water leak or burst pipe? Licensed Inner West plumbers find the leak with the least damage, then repair it. Homes and strata. Call 0412 395 426.",
@@ -253,7 +253,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
@@ -275,7 +275,7 @@
   {
     "id": "pg-20",
     "path": "/stormwater-drainage-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Stormwater Plumber Inner West | Pits, Pipes and Flooding",
     "seoTitle": "Stormwater Plumber Inner West | Pits, Pipes and Flooding",
     "seoDescription": "Blocked stormwater drains, overflowing pits or water pooling after rain? Inner West stormwater plumbers clear and repair pipes and pits. Call 0412 395 426.",
@@ -285,7 +285,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
@@ -675,7 +675,7 @@
   {
     "id": "pg-45",
     "path": "/backflow-testing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Backflow Testing Inner West | Annual Tests and TMV Service",
     "seoTitle": "Backflow Testing Inner West | Annual Tests and TMV Service",
     "seoDescription": "Backflow testing in the Inner West by an accredited plumber: annual device tests lodged with Sydney Water, repairs, and TMV servicing. Call 0412 395 426.",
@@ -685,13 +685,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:59:02.341Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-46",
     "path": "/bathroom-kitchen-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Bathroom Renovation Plumbing Inner West | Kitchens Too",
     "seoTitle": "Bathroom Renovation Plumbing Inner West | Kitchens Too",
     "seoDescription": "Bathroom renovation plumbing and kitchen plumbing for Inner West homes: rough-in, moving fixtures, fit-off and compliance certificates. Call 0412 395 426.",
@@ -701,13 +701,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:59:02.341Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-47",
     "path": "/gas-fitter-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Gas Fitter Inner West | Leaks, Cooktops, Heaters, Hot Water",
     "seoTitle": "Gas Fitter Inner West | Leaks, Cooktops, Heaters, Hot Water",
     "seoDescription": "Licensed gas fitter for Inner West homes and businesses: leak repairs, cooktops, heaters, gas hot water and compliance certificates. Call 0412 395 426.",
@@ -717,13 +717,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:59:02.341Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-48",
     "path": "/pipe-relining-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Pipe Relining Inner West | Fix Sewers Without Digging",
     "seoTitle": "Pipe Relining Inner West | Fix Sewers Without Digging",
     "seoDescription": "Pipe relining in the Inner West: repair cracked clay sewers and stormwater pipes from the inside, under driveways, paths and gardens. Call 0412 395 426.",
@@ -733,13 +733,13 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:59:02.341Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-49",
     "path": "/roof-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Roof Plumber Inner West | Gutters, Downpipes, Roof Leaks",
     "seoTitle": "Roof Plumber Inner West | Gutters, Downpipes, Roof Leaks",
     "seoDescription": "Roof plumber for Inner West homes: gutter repairs and replacement, downpipes, box gutters, flashings and roof leaks. Call 0412 395 426.",
@@ -749,7 +749,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:59:02.341Z",
+    "updatedAt": "2026-11-23T04:00:44.637Z",
     "updatedBy": "joshua"
   }
 ]
