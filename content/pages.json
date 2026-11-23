@@ -291,7 +291,7 @@
   {
     "id": "pg-21",
     "path": "/strata-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Strata Plumber Inner West | Owners Corporations, Managers",
     "seoTitle": "Strata Plumber Inner West | Owners Corporations, Managers",
     "seoDescription": "Strata plumber for Inner West apartment buildings. Leaks between units, shared drains, hot water and planned maintenance. Call 0412 395 426.",
@@ -301,7 +301,7 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T03:49:47.808Z",
+    "updatedAt": "2026-11-23T04:07:26.009Z",
     "updatedBy": "joshua"
   },
   {
@@ -691,7 +691,7 @@
   {
     "id": "pg-46",
     "path": "/bathroom-kitchen-plumbing-inner-west",
-    "type": "page",
+    "type": "service",
     "title": "Bathroom Renovation Plumbing Inner West | Kitchens Too",
     "seoTitle": "Bathroom Renovation Plumbing Inner West | Kitchens Too",
     "seoDescription": "Bathroom renovation plumbing and kitchen plumbing for Inner West homes: rough-in, moving fixtures, fit-off and compliance certificates. Call 0412 395 426.",
@@ -701,9 +701,8 @@
     "status": "draft",
     "createdAt": "2026-11-23T03:59:02.341Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:02:55.523Z",
-    "updatedBy": "joshua",
-    "category": "Other"
+    "updatedAt": "2026-11-23T04:07:26.009Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-47",
