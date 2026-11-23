@@ -1,0 +1,195 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mwsxhqom-o8pi",
+      "at": "2026-11-23T07:12:32.854Z",
+      "count": 46,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-IWSP-H"
+        },
+        {
+          "path": "/emergency-plumber-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S01"
+        },
+        {
+          "path": "/blocked-drains-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S02"
+        },
+        {
+          "path": "/hot-water-repairs-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S05"
+        },
+        {
+          "path": "/service-areas/plumber-marrickville",
+          "newRecordId": "SCHEMA-IWSP-L01"
+        },
+        {
+          "path": "/service-areas/plumber-balmain",
+          "newRecordId": "SCHEMA-IWSP-L02"
+        },
+        {
+          "path": "/service-areas/plumber-burwood",
+          "newRecordId": "SCHEMA-IWSP-L03"
+        },
+        {
+          "path": "/guides/plumber-cost-inner-west",
+          "newRecordId": "SCHEMA-IWSP-G1"
+        },
+        {
+          "path": "/guides/hot-water-not-working",
+          "newRecordId": "SCHEMA-IWSP-G4"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-IWSP-C1"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-IWSP-C2"
+        },
+        {
+          "path": "/cctv-drain-inspection-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S03"
+        },
+        {
+          "path": "/hot-water-system-replacement-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S06"
+        },
+        {
+          "path": "/leak-detection-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S08"
+        },
+        {
+          "path": "/stormwater-drainage-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S10"
+        },
+        {
+          "path": "/toilet-repairs-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S11"
+        },
+        {
+          "path": "/tap-repairs-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S12"
+        },
+        {
+          "path": "/strata-plumbing-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S15"
+        },
+        {
+          "path": "/commercial-plumbing-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S16"
+        },
+        {
+          "path": "/service-areas/service-areas",
+          "newRecordId": "SCHEMA-IWSP-L00"
+        },
+        {
+          "path": "/service-areas/plumber-leichhardt",
+          "newRecordId": "SCHEMA-IWSP-L04"
+        },
+        {
+          "path": "/service-areas/plumber-ashfield",
+          "newRecordId": "SCHEMA-IWSP-L05"
+        },
+        {
+          "path": "/service-areas/plumber-five-dock",
+          "newRecordId": "SCHEMA-IWSP-L06"
+        },
+        {
+          "path": "/service-areas/plumber-strathfield",
+          "newRecordId": "SCHEMA-IWSP-L07"
+        },
+        {
+          "path": "/service-areas/plumber-newtown",
+          "newRecordId": "SCHEMA-IWSP-L08"
+        },
+        {
+          "path": "/service-areas/plumber-drummoyne",
+          "newRecordId": "SCHEMA-IWSP-L09"
+        },
+        {
+          "path": "/service-areas/plumber-concord",
+          "newRecordId": "SCHEMA-IWSP-L10"
+        },
+        {
+          "path": "/service-areas/plumber-croydon",
+          "newRecordId": "SCHEMA-IWSP-L11"
+        },
+        {
+          "path": "/service-areas/plumber-summer-hill",
+          "newRecordId": "SCHEMA-IWSP-L12"
+        },
+        {
+          "path": "/service-areas/plumber-homebush",
+          "newRecordId": "SCHEMA-IWSP-L13"
+        },
+        {
+          "path": "/service-areas/plumber-dulwich-hill",
+          "newRecordId": "SCHEMA-IWSP-L14"
+        },
+        {
+          "path": "/service-areas/plumber-haberfield",
+          "newRecordId": "SCHEMA-IWSP-L15"
+        },
+        {
+          "path": "/service-areas/plumber-annandale",
+          "newRecordId": "SCHEMA-IWSP-L16"
+        },
+        {
+          "path": "/guides",
+          "newRecordId": "SCHEMA-IWSP-G0"
+        },
+        {
+          "path": "/guides/strata-plumbing-who-pays-nsw",
+          "newRecordId": "SCHEMA-IWSP-G2"
+        },
+        {
+          "path": "/guides/tree-roots-in-drains",
+          "newRecordId": "SCHEMA-IWSP-G3"
+        },
+        {
+          "path": "/guides/how-long-does-a-hot-water-system-last",
+          "newRecordId": "SCHEMA-IWSP-G5"
+        },
+        {
+          "path": "/guides/how-to-find-a-hidden-water-leak",
+          "newRecordId": "SCHEMA-IWSP-G6"
+        },
+        {
+          "path": "/guides/smell-gas-what-to-do",
+          "newRecordId": "SCHEMA-IWSP-G7"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-IWSP-C4"
+        },
+        {
+          "path": "/terms",
+          "newRecordId": "SCHEMA-IWSP-C5"
+        },
+        {
+          "path": "/pipe-relining-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S04"
+        },
+        {
+          "path": "/gas-fitter-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S07"
+        },
+        {
+          "path": "/roof-plumbing-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S09"
+        },
+        {
+          "path": "/backflow-testing-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S13"
+        },
+        {
+          "path": "/bathroom-kitchen-plumbing-inner-west",
+          "newRecordId": "SCHEMA-IWSP-S14"
+        }
+      ]
+    }
+  ]
+}
