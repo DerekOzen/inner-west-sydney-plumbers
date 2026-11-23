@@ -130,7 +130,7 @@
   },
   {
     "id": "pg-11",
-    "path": "/service-areas/plumber-burwood",
+    "path": "/plumber-burwood",
     "type": "location",
     "title": "Plumber Burwood NSW | Apartments, Strata, Federation Homes",
     "seoTitle": "Plumber Burwood NSW | Apartments, Strata, Federation Homes",
@@ -141,7 +141,7 @@
     "status": "published",
     "createdAt": "2026-11-23T02:41:05.012Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:30:00.147Z",
+    "updatedAt": "2026-11-23T04:08:19.581Z",
     "updatedBy": "joshua"
   },
   {
@@ -258,7 +258,7 @@
   },
   {
     "id": "pg-19",
-    "path": "/service-areas",
+    "path": "/service-areas/service-areas",
     "type": "location",
     "title": "Inner West Suburbs We Cover | Inner West Sydney Plumbers",
     "seoTitle": "Inner West Suburbs We Cover | Inner West Sydney Plumbers",
@@ -269,7 +269,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:49:47.808Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:08:55.210Z",
+    "updatedAt": "2026-11-23T04:30:03.766Z",
     "updatedBy": "joshua"
   },
   {
@@ -354,7 +354,7 @@
   },
   {
     "id": "pg-25",
-    "path": "/service-areas/plumber-concord",
+    "path": "/plumber-concord",
     "type": "location",
     "title": "Plumber Concord | Bungalows, Rebuilds, Majors Bay Road",
     "seoTitle": "Plumber Concord | Bungalows, Rebuilds, Majors Bay Road",
@@ -365,7 +365,7 @@
     "status": "published",
     "createdAt": "2026-11-23T03:57:40.959Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-23T04:30:09.606Z",
+    "updatedAt": "2026-11-23T04:08:55.210Z",
     "updatedBy": "joshua"
   },
   {
