@@ -751,5 +751,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-11-23T04:08:55.210Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-50",
+    "path": "/service-areas",
+    "type": "page",
+    "title": "Inner West Suburbs We Cover | Inner West Sydney Plumbers",
+    "seoTitle": "Inner West Suburbs We Cover | Inner West Sydney Plumbers",
+    "seoDescription": "Plumbers covering every Inner West suburb, from Balmain and Rozelle to Marrickville, Burwood, Strathfield and Concord. Find your suburb, then call 0412 395 426.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-24T12:49:14.397Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-24T12:49:14.397Z",
+    "updatedBy": "derek"
   }
 ]
