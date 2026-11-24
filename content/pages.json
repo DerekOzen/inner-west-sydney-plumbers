@@ -762,10 +762,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-24T12:49:14.397Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-24T12:49:14.397Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-24T12:49:33.658Z",
+    "updatedBy": "derek",
+    "category": "Locations"
   }
 ]
